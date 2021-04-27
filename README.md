@@ -78,6 +78,8 @@ You can also use the web version in your browser [here](https://web.bettercrewl.
 
 If you have a PC and want to download the PC version of BetterCrewLink (without being the Bluestacks) go to category [Windows](https://github.com/OhMyGuus/BetterCrewLink#windows).
 
+[![PC Latest Release][latest_release_pc-shield]][latest_release_pc-url]
+
 ## Setup Instructions
 
 ### Android & Chromebook
@@ -88,6 +90,10 @@ If you have a PC and want to download the PC version of BetterCrewLink (without 
 * Hit the connect button.
   * If you are waiting on the connecting screen for a while you may want to check that all the information is correct and the is a PC user with "Mobile Host" enabled in the lobby.
 * All done!
+
+[![BetterCrewLink on Play Store](https://lh3.googleusercontent.com/cjsqrWQKJQp9RFO7-hJ9AfpKzbUb_Y84vXfjlP0iRHBvladwAfXih984olktDhPnFqyZ0nu9A5jvFwOEQPXzv7hr3ce3QVsLN8kQ2Ao=s0)](https://play.google.com/store/apps/details?id=io.bettercrewlink.app "Get BetterCrewLink on Play Store")
+
+[![Play Store Latest Version][latest_version-shield]][latest_version-url] 
 
 ### iOS & macOS
 
@@ -104,7 +110,7 @@ An iOS/macOS version is still being developed and will be released soon, but you
 
 ## Development
 
-You only need to follow the below instructions if you are trying to modify this software. Otherwise, please download the latest version from the [github releases](https://github.com/OhMyGuus/BetterCrewlink-mobile/releases).
+You only need to follow the below instructions if you are trying to modify this software. Otherwise, please download the latest version from the [GitHub releases](https://github.com/OhMyGuus/BetterCrewlink-mobile/releases).
 
 Server code is located at [OhMyGuus/BetterCrewLink-server](https://github.com/OhMyGuus/BetterCrewLink-server). Please use a local server for development purposes.
 
@@ -195,10 +201,10 @@ Distributed under the GNU General Public License v3.0. See <a href="https://gith
 
 [downloads-shield]: https://img.shields.io/endpoint?color=success&logo=google-play&logoColor=success&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dio.bettercrewlink.app%26l%3DDownloads%26m%3D%24installs
 [downloads-url]: https://play.google.com/store/apps/details?id=io.bettercrewlink.app
-[downloads_latest_release-shield]: https://img.shields.io/github/downloads/OhMyGuus/BetterCrewlink-mobile/latest/total?label=Downloads%20%28latest%20release%29&logo=GitHub
-[downloads_latest_release-url]: https://github.com/OhMyGuus/BetterCrewlink-mobile/releases/latest/
-[latest_release-shield]: https://img.shields.io/endpoint?color=success&logo=google-play&logoColor=success&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dio.bettercrewlink.app%26l%3DLatest%2520Version%26m%3Dv%24version
-[latest_release-url]: https://play.google.com/store/apps/details?id=io.bettercrewlink.app
+[latest_version-shield]: https://img.shields.io/endpoint?color=success&logo=google-play&logoColor=success&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dio.bettercrewlink.app%26l%3DLatest%2520Version%26m%3Dv%24version
+[latest_version-url]: https://play.google.com/store/apps/details?id=io.bettercrewlink.app
+[latest_release_pc-shield]: https://img.shields.io/github/v/release/OhMyGuus/BetterCrewLink?logo=GitHub&color=success&label=Latest%20Release
+[latest_release_pc-url]: https://github.com/OhMyGuus/BetterCrewLink/releases/latest/
 [license-shield]: https://img.shields.io/github/license/OhMyGuus/BetterCrewlink-mobile?label=License
 [license-url]: https://github.com/OhMyGuus/BetterCrewlink-mobile/blob/master/LICENSE
 [status-shield]: https://img.shields.io/nodeping/status/d05ourk4-xif3-4x57-83ro-59qr0yr5j33l?down_message=Offline&label=Status&up_message=Online
