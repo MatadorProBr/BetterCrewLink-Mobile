@@ -19,7 +19,7 @@ Please use this checklist to avoid spamming:
 1. [ ] I am not asking a question => use the [Discord](https://discord.gg/qDqTzvj4SH) if you are
 2. [ ] I have tried to use an [alternative voice server](https://bettercrewl.ink/)
 3. [ ] I have checked everyone in my lobby is on the same BetterCrewLink/CrewLink server
-4. [ ] I have clicked in `Refresh` or in `NAT Fix` on the BetterCrewLink mobile app when I can't hear some people (this is a known issue)
+4. [ ] I have clicked in `Refresh` and i activated `NAT Fix` on the BetterCrewLink Mobile app when I can't hear some people (this is a known issue)
 5. [ ] I have checked that the BetterCrewLink/CrewLink server I'm using is up to date
 6. [ ] I have a screenshot of any errors
 7. [ ] I have checked that someone else has not reported this using the [search bar](https://github.com/OhMyGuus/BetterCrewlink-mobile/issues?q=is%3Aissue)
