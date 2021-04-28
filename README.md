@@ -108,6 +108,7 @@ An iOS/macOS version is still being developed and will be released soon, but you
   * If you are waiting on the connecting screen for a while you may want to check that all the information is correct and the is a PC user with "Mobile Host" enabled in the lobby.
 * All done!
 
+<!-- DEVELOPMENT -->
 ## Development
 
 You only need to follow the below instructions if you are trying to modify this software. Otherwise, please download the latest version from the [GitHub releases](https://github.com/OhMyGuus/BetterCrewlink-mobile/releases).
