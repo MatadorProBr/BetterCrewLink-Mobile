@@ -35,6 +35,8 @@ ionic serve
 <!-- CONTRIBUTING -->
 ## Contributing
 
+[![Contributors][contributors-shield]][contributors-url]
+
 Any contributions you make are greatly appreciated.
 
 Needed [Git](https://git-scm.com/downloads) for Contributing.
@@ -53,3 +55,6 @@ Soon™
 We are planning and in the future the BetterCrewLink app/website may be translated into other languages (in addition to English), but for now nothing official has been released.
 
 You can translate the BetterCrewLink PC app, go to the category [Translating (in other repository)](https://github.com/OhMyGuus/BetterCrewLink#translating) for more information.
+
+[contributors-shield]: https://img.shields.io/github/contributors/OhMyGuus/BetterCrewlink-mobile?label=Contributors&logo=GitHub
+[contributors-url]: https://github.com/OhMyGuus/BetterCrewlink-mobile/graphs/contributors
