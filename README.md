@@ -70,6 +70,7 @@
 
 This project implements proximity voice chat for mobile users in Among Us. As long as there is a PC user with "Mobile Host" enabled in your lobby, you will be able to hear people near you.
 
+<!-- INSTALLATION -->
 ## Installation
 
 Download the latest version from [releases](https://github.com/OhMyGuus/BetterCrewlink-mobile/releases/latest) and run the `Bettercrewlink-v-X-X-X-a.apk` file on your phone. You may have to allow chrome to install apps on your phone.
@@ -80,6 +81,7 @@ If you have a PC and want to download the PC version of BetterCrewLink (without 
 
 [![PC Latest Release][latest_release_pc-shield]][latest_release_pc-url]
 
+<!-- SETUP INSTRUCTIONS -->
 ## Setup Instructions
 
 ### Android & Chromebook
