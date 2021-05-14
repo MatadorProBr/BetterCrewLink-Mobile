@@ -1,8 +1,11 @@
 <br />
 <p align="center">
   <a href="https://github.com/OhMyGuus/BetterCrewlink-mobile">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="src/logos/sizes/256-BCL-Logo-shadow.png" alt="BetterCrewLink Logo">
   </a>
+  <br/>
+  <sub>Logo made by <a href="https://github.com/SirBuvex">SirBuvex</a></sub>
+</p>
   <h3 align="center">BetterCrewLink Mobile is here!</h3>
 
 
@@ -18,7 +21,7 @@
   <p align="center">
     <b><a href="#donate">Donate to BetterCrewLink</a></b></br>
   (all donations will be used for the apple developer license and extra servers)</br>
-   <b><a href="https://paypal.me/ottomated">Donate to ottomated (offical crewlink)</a></b>
+   <b><a href="https://paypal.me/ottomated">Donate to ottomated (offical CrewLink)</a></b>
   </p>
 </p>
 <hr />
@@ -44,21 +47,25 @@
 
 - To get the most of BetterCrewLink use the Voice Server: <a href="https://bettercrewl.ink">`https://bettercrewl.ink`</a>
 
-</p>
-<a href="https://discord.gg/qDqTzvj4SH"> <img src="https://i.imgur.com/XpnBhTW.png" width="150px" /> </a>
+<div>
+  <a target="_blank" href="https://discord.gg/qDqTzvj4SH" title="Join our Discord!">
+    <img height="75px" draggable="false" src="https://discordapp.com/api/guilds/791516611143270410/widget.png?style=banner2" alt="Join our Discord!">
+  </a>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [Supported Plataforms](#supported-plataforms)
 * [Installation](#installation)
-[Setup Instructions](#setup-instructions)
-  * [Android & Chromebook](#android--chromebook)
+* [Setup Instructions](#setup-instructions)
+  * [Android/Chromebook/Bluestacks](#androidchromebookbluestacks)
   * [iOS & macOS](#ios--macos)
   * [Web](#web)
 * [Development](#development)
   * [Prerequisites](#prerequisites)
-  * [Setup](#setup)
+      * [Setup](#setup)
 * [Contributing](#contributing)
 * [Translating](#translating)
 * [Donate](#donate)
@@ -69,6 +76,19 @@
 ## About The Project
 
 This project implements proximity voice chat for mobile users in Among Us. As long as there is a PC user with "Mobile Host" enabled in your lobby, you will be able to hear people near you.
+
+<!-- SUPPORTED PLATAFORMS -->
+## Supported Plataforms
+
+| Plataform | Supported |
+| ------- | ------------------ |
+| [Steam](https://github.com/OhMyGuus/BetterCrewLink#installation) | ✅ |
+| [itch.io](https://github.com/OhMyGuus/BetterCrewLink#installation) | ✅ |
+| [Microsoft Store](https://github.com/OhMyGuus/BetterCrewLink#windows-) | ✅ |
+| [Play Store](#androidchromebookbluestacks) | ✅ |
+| [App Store](#ios--macos) | ✅ |
+| [Nintendo Switch](#web) | ✅ |
+| Beta | ✅ |
 
 <!-- INSTALLATION -->
 ## Installation
@@ -84,7 +104,7 @@ If you have a PC and want to download the PC version of BetterCrewLink (without 
 <!-- SETUP INSTRUCTIONS -->
 ## Setup Instructions
 
-### Android & Chromebook
+### Android/Chromebook/Bluestacks
 
 * Open the app.
 * Ensure there is one person in the lobby with "Mobile Host" enabled on their PC (they must use [BetterCrewLink](https://github.com/OhMyGuus/BetterCrewLink)).
@@ -163,7 +183,7 @@ Needed [Git](https://git-scm.com/downloads) for Contributing.
 <details>
 <summary> Contributors </summary>
 
-See the category [Contributors (in other repository)](https://github.com/OhMyGuus/BetterCrewLink#contributing).
+See the [Contributors here](https://github.com/OhMyGuus/BetterCrewLink#contributing) (in other repository).
 
 </details>
 
@@ -176,9 +196,11 @@ Soon™
 
 We are planning and in the future the BetterCrewLink app/website may be translated into other languages (in addition to English), but for now nothing official has been released.
 
-You can translate the BetterCrewLink PC app, go to the category [Translating (in other repository)](https://github.com/OhMyGuus/BetterCrewLink#translating) for more information.
+You can translate the BetterCrewLink PC app, go to the category [Translating here](https://github.com/OhMyGuus/BetterCrewLink#translating) (in other repository) for more information.
 
 <!-- DONATE -->
+## Donate
+
 ## Donate
 
 If you like the BetterCrewLink and want to help it to stay alive and with new features, bug fixes, support for other platforms, pay for servers, donate money for the project, of course if you want and can, this is an optional choice, we currently support PayPal and Ko-fi, choose the best donate option for you and click on the image below:
@@ -186,6 +208,21 @@ If you like the BetterCrewLink and want to help it to stay alive and with new fe
 [![Support BetterCrewLink (PayPal)][paypal-shield]][paypal-url] [![Support BetterCrewLink (Ko-fi)][kofi-shield]][kofi-url]
 
 Any donations you make are greatly appreciated.
+
+### Donations Goals
+- Bring BetterCrewLink to iOS & Mobile progression 
+- US NAT FIX/server location 
+- ASIA NAT FIX/server location 
+
+<hr />
+
+<details>
+<summary> Donators </summary>
+
+See the [Donators here](https://github.com/OhMyGuus/BetterCrewLink#donate) (in other repository).
+
+</details>
+<hr />
 
 <!-- BUGS/SUGGESTIONS/QUESTIONS -->
 ## Bugs & Suggestions
