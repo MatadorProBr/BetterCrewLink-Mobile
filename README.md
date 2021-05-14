@@ -201,8 +201,6 @@ You can translate the BetterCrewLink PC app, go to the category [Translating her
 <!-- DONATE -->
 ## Donate
 
-## Donate
-
 If you like the BetterCrewLink and want to help it to stay alive and with new features, bug fixes, support for other platforms, pay for servers, donate money for the project, of course if you want and can, this is an optional choice, we currently support PayPal and Ko-fi, choose the best donate option for you and click on the image below:
 
 [![Support BetterCrewLink (PayPal)][paypal-shield]][paypal-url] [![Support BetterCrewLink (Ko-fi)][kofi-shield]][kofi-url]
